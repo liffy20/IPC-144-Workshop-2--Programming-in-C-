@@ -1,6 +1,5 @@
-// piggybank program workshop 2 IPC144
-// name: Daniel Lifchitz
-// student number:107719163
+// piggybank program workshop 2 IPC144 AT HOME
+
 // Section: S
 #include <stdio.h>
 
